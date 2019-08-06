@@ -12,7 +12,8 @@ public class Prob1 {
 		
 		if( x % 3 == 0 )
 			System.out.println("3의 배수입니다.");
-		
+		else
+			System.out.println("땡!!");
 		in.close();
 
 	}
